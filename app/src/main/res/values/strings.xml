@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="temp">Temp</string>
+    <string name="time">Time</string>
+    <string name="enter">enter</string>
+    <string name="hello">hello</string>
+    <string name="day">DayInfo</string>
+    <string name="launcher">Launcher</string>
+    <string name="dayWeather">4 Day Weather</string>
+    <string name="action_setting">Настройка</string>
+    <string name="cityname">Введите название города</string>
+    <string name="geo">Определить местоположение</string>
+    <string name="history">История</string>
+    <string name="about">О программе</string>
+    <string name="city_name">City Name:</string>
+</resources>
